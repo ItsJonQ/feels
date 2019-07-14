@@ -1,6 +1,6 @@
 {
   "name": "@itsjonq/feels",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Simple feels tracker",
   "bin": {
     "feels": "src/index.js"
